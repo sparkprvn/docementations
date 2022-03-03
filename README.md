@@ -1,2 +1,2 @@
-# docementations
+# documentations
 Contains various documents
